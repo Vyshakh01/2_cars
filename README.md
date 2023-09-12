@@ -4,7 +4,7 @@
  This is a simplified version of the android game 2Cars created by using Python programming language and Turtle module.
  There are 2 cars placed at bottom and objects keep on falling from top.
  Being in contact with a blue object will increment your point.
- Being in contact with a red objectt will eliminate you.
+ Being in contact with a red object will eliminate you.
 
 ## How to Play
 Installation: Before playing the game, ensure that you have Python installed on your computer. You can download Python from the official website.
