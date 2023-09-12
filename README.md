@@ -1,8 +1,7 @@
 # 2_cars
 
 
- Inspired from an android game named 2cars.
- created by using turtle module from python language.
+ this is a clone of the android game 2Cars created by using Python programming language and Turtle module.
  There are 2 cars placed at bottom and objects keep on falling from top.
  Being in contact with a blue element will increment your point.
  Being in contact with a red element will eliminate you.
